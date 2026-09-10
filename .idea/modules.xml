@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/NestedSwitch.java.iml" filepath="$PROJECT_DIR$/NestedSwitch.java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Main.iml" filepath="$PROJECT_DIR$/Main.iml" />
+>>>>>>> 2705a67ebec2d9f50c1fa426747f8c7a3fa9e359
     </modules>
   </component>
 </project>
