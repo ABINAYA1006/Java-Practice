@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Array.iml" filepath="$PROJECT_DIR$/Array.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Ques.iml" filepath="$PROJECT_DIR$/Ques.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/scope.iml" filepath="$PROJECT_DIR$/scope.iml" />
+>>>>>>> f43589ddcf8b170bff39a42f2192b6d259adf58b
+>>>>>>> e301eaa615848e66ac7a54633d6d17117f6d5415
     </modules>
   </component>
 </project>
