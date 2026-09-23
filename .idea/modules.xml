@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/armstrong.iml" filepath="$PROJECT_DIR$/armstrong.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/linear3.iml" filepath="$PROJECT_DIR$/linear3.iml" />
+>>>>>>> 2da6bc1cd38cd07f910e8a38f5ee5c61274efbb6
     </modules>
   </component>
 </project>
